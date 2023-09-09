@@ -55,7 +55,7 @@
 ### Leetcode Stats
 
 <div>
-  <img src="https://leetcard.jacoblin.cool/top_gun11?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
+  <img src="https://leetcard.jacoblin.cool/topgun_11?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
 </div>
 
 ### GitHub Stats
